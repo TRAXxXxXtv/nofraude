@@ -1,5 +1,5 @@
 # Générateur de QR Codes 
-
+ <img src='./nofraude.jpg' alt='FeurBot'>
 ## Description
 Ce projet est une application Python permettant de générer des QR Codes pour des participants à une tombola. Chaque participant reçoit un QR Code unique par email après son inscription. Les informations des participants sont enregistrées dans un fichier CSV.
 
