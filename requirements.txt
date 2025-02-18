@@ -1,0 +1,7 @@
+qrcode
+pandas
+tqdm
+colorama
+smtplib
+email
+uuid
